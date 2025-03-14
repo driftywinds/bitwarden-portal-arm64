@@ -8,5 +8,5 @@ How to use: -
 
 1. Use the official instructions from the repo.
 2. Change env variables according to your need.
-3. Change the image part of the ompose file to ```ghcr.io/driftywinds/bw-portal:latest```
+3. Change the image part of the compose file to ```ghcr.io/driftywinds/bw-portal:latest```
 4. Profit
